@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**meghnaHarjani/meghnaHarjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Meghna!
 
-Here are some ideas to get you started:
+I'm a Computer Science student at **FAST NUCES Karachi** with a strong interest in **Data Science, Machine Learning, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, solving problems, learning new technologies, and turning ideas into practical applications.
+
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student at **FAST NUCES Karachi**
+* 📊 Interested in **Data Science & Machine Learning**
+* 💻 Strong foundation in **C++ and Python**
+* 🗄️ Working with **SQL, PostgreSQL & databases**
+* 🌐 Experience with **Flask & backend development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🔭 Currently learning and building projects in **Data Science & ML**
+* ⚡ Always curious to learn and explore new technologies
+
+
