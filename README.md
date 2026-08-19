@@ -8,7 +8,6 @@ I enjoy building projects, solving problems, learning new technologies, and turn
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student at **FAST NUCES Karachi**
 * 📊 Interested in **Data Science & Machine Learning**
 * 💻 Strong foundation in **C++ and Python**
 * 🗄️ Working with **SQL, PostgreSQL & databases**
